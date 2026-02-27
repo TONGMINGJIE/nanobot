@@ -20,3 +20,7 @@ poetry.lock
 .pytest_cache/
 botpy.log
 tests/
+.omc
+.claude
+
+node_modules/
